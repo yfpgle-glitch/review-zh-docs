@@ -1,0 +1,4 @@
+interface:
+  display_name: "review-zh-docs"
+  short_description: "审阅和改写中文 PRD、README、技术方案与实施计划"
+  default_prompt: "Use $review-zh-docs to review this Chinese project document for clarity, executability, verifiability, source reliability, and unnecessary AI-style wording."
